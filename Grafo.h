@@ -8,7 +8,7 @@ typedef struct {
     int eh_ponderado;   // Flag indicando se o grafo é ponderado (1) ou não (0)
 } Grafo;
 
-// Protótipos das funções
+// Assinaturas das funções
 Grafo* cria_Grafo(int nro_vertices, int eh_ponderado);
 void insereAresta(Grafo* gr, int orig, int dest, int eh_digrafo, double peso);
 void libera_Grafo(Grafo* gr);
