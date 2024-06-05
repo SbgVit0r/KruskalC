@@ -31,3 +31,8 @@ O algoritmo de Kruskal é utilizado para encontrar a árvore geradora mínima de
 1. Inicializa cada vértice como uma árvore separada.
 2. Ordena todas as arestas em ordem crescente de peso.
 3. Adiciona arestas à árvore geradora mínima, evitando ciclos, até que todos os vértices estejam conectados.
+
+## Autor
+Desenvolvido por [Vitor Sbeghi].
+
+
